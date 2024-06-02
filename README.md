@@ -35,7 +35,7 @@ The response will be a JSON object containing the analysis and reward points. Fo
     "toxicity": 2,
     "spam": 0,
     "inappropriate": 1,
-    "severeToxicity": false
+    "severeToxicity": false // If toxicity is above 7, can be used to sanction or ban the user
   },
   "reward": {
     "trust-index": 90,
