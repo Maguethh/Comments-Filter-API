@@ -65,7 +65,3 @@ if (trustIndex < 50) {
 ```
 
 Remember, constructive criticism should not lower the trust index, and any comment that is inappropriate or toxic will receive 0 points.
-
-```
-
-```
